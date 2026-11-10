@@ -1,0 +1,7 @@
+product_id,product_name,current_price,cost_price,inventory,competitor_price,min_price,max_price
+P1001,Wireless Headphones,2000,1200,320,2100,1300,2800
+P1002,Running Shoes,3000,1750,210,2899,1900,3900
+P1003,Smart Watch,4500,2900,150,4699,3100,5900
+P1004,Backpack,1400,650,400,1499,750,2100
+P1005,Bluetooth Speaker,2500,1450,180,2399,1600,3400
+P1006,Running T-Shirt,900,350,500,999,400,1400
